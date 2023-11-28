@@ -272,7 +272,7 @@
       <span>Backend/Infra</span>
     </td>
     <td align="center">
-      <span>Backend</span>
+      <span>팀장<br>Backend</span>
     </td>
     <td align="center">
       <span>Frontend</span>
